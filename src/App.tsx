@@ -12,7 +12,7 @@ const App: React.FC = () => {
     facebook: "https://www.facebook.com/pornpichai.sritinun",
     twitter: "pornpichai.sritinun",
     avatar:
-      "https://media.discordapp.net/attachments/1206255401318744084/1437530323675250718/1762804322144.jpg?ex=691393f1&is=69124271&hm=4eeb6b34cb67adbece08be6f88f4339719a2a681e6a486400739311ceb35c3f6&=&format=webp&width=1032&height=1376",
+      "/src/assets/profile.jpg",
   };
 
   const skills = [
